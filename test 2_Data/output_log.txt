@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\School\ADA\Mini Project\Sudoku\test 2_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.679974 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 126.
+Total: 0.618848 ms (FindLiveObjects: 0.004740 ms CreateObjectMapping: 0.004740 ms MarkObjects: 0.123623 ms  DeleteObjects: 0.002188 ms)
+
+UnloadTime: 0.393845 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 148.
+Total: 0.537526 ms (FindLiveObjects: 0.006199 ms CreateObjectMapping: 0.005470 ms MarkObjects: 0.076945 ms  DeleteObjects: 0.007293 ms)
+
+Level Load requested: Activity1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.127201 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 125.
+Total: 0.536432 ms (FindLiveObjects: 0.006199 ms CreateObjectMapping: 0.005105 ms MarkObjects: 0.074028 ms  DeleteObjects: 0.006564 ms)
+
